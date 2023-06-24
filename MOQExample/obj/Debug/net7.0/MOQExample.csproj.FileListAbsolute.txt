@@ -1,0 +1,12 @@
+C:\Users\Muhammadjon\MarketPlace\MOQExample\MOQExample\bin\Debug\net7.0\MOQExample.deps.json
+C:\Users\Muhammadjon\MarketPlace\MOQExample\MOQExample\bin\Debug\net7.0\MOQExample.dll
+C:\Users\Muhammadjon\MarketPlace\MOQExample\MOQExample\bin\Debug\net7.0\MOQExample.pdb
+C:\Users\Muhammadjon\MarketPlace\MOQExample\MOQExample\obj\Debug\net7.0\MOQExample.csproj.AssemblyReference.cache
+C:\Users\Muhammadjon\MarketPlace\MOQExample\MOQExample\obj\Debug\net7.0\MOQExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammadjon\MarketPlace\MOQExample\MOQExample\obj\Debug\net7.0\MOQExample.AssemblyInfoInputs.cache
+C:\Users\Muhammadjon\MarketPlace\MOQExample\MOQExample\obj\Debug\net7.0\MOQExample.AssemblyInfo.cs
+C:\Users\Muhammadjon\MarketPlace\MOQExample\MOQExample\obj\Debug\net7.0\MOQExample.csproj.CoreCompileInputs.cache
+C:\Users\Muhammadjon\MarketPlace\MOQExample\MOQExample\obj\Debug\net7.0\MOQExample.dll
+C:\Users\Muhammadjon\MarketPlace\MOQExample\MOQExample\obj\Debug\net7.0\refint\MOQExample.dll
+C:\Users\Muhammadjon\MarketPlace\MOQExample\MOQExample\obj\Debug\net7.0\MOQExample.pdb
+C:\Users\Muhammadjon\MarketPlace\MOQExample\MOQExample\obj\Debug\net7.0\ref\MOQExample.dll
